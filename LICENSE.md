@@ -9,7 +9,7 @@
 
 Experience Counter-Strike 2 like never before with the **2026 Edition** of Spurdo Crack - the most advanced performance and optimization utility designed specifically for competitive gamers.
 
-### ✨ Key Features
+### ✨ Key Features:
 - **Performance Optimization** - Maximum FPS boost and reduced input lag
 - **Visual Enhancements** - Improved clarity and competitive settings
 - **Network Optimization** - Reduced ping and packet loss
